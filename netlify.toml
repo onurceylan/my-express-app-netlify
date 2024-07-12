@@ -1,0 +1,8 @@
+[build]
+  functions = "functions"
+  publish = "bundles"
+
+[[redirects]]
+  from = "/*"
+  to = "/index.html"
+  status = 200
